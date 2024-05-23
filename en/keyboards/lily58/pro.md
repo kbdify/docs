@@ -82,6 +82,14 @@ Place the PCB and switch plate on top of the spacers and screw them in. Ensure n
 
 Add the rest of the switches in and add keycaps.
 
+<figure><img src="../../.gitbook/assets/lily58-feature.jpg" alt=""><figcaption><p><strong>Figure</strong>: Lily58 Pro complete build.</p></figcaption></figure>
+
+Flash the keyboard with the required firmware. Instructions can be found in the[ Firmware section](pro.md#firmware).
+
+Configure the keyboard using VIA. Instructions can be found in the [Configuration section](pro.md#configuration).
+
+Repeat all steps for the opposite side.
+
 ## Firmware
 
 ### QMK
